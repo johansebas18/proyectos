@@ -12,7 +12,7 @@ public Formulario(){
     label1=JLabel("formulario de prueba");
     label1.setBounds(10,20,300,30);
     add(label1);
-    label2=JLabel("version 1.0");
+    label2=JLabel("holamundo");
     label2.setBounds(10,100,100,30);
     add(label2);
 
